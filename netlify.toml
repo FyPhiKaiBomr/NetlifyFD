@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://fkb.qzz.io/:splat"
+  to = "https://fkb.qzz.io/:splat"
   status = 200
   force = true
