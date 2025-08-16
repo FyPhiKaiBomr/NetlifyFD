@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://fkb.qzz.io/:splat"
+  status = 200
+  force = true
